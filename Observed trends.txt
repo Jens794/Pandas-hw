@@ -1,0 +1,6 @@
+The observable trends are as follows;
+* The Purchase count and Total purchase price of males are higher than females, which shows that males are the dominant gamers.
+* The age group of 20-24 records a higher purchase count than other age groups with total purchase value of $981.64.
+* Oath breaker, Last Hope of the Breaking Storm is the highest purchased game with a purchase count of 12 and total purchase value of $50.76.
+
+
